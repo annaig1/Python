@@ -2,9 +2,12 @@
 """
 Created on Tue Feb 02 13:41:47 2016
 
+Je test la modification depuis l'ordi
+
 @author: annaig
 """
 
+import numpy as np
 import struct
 
 def lire_header(path):
